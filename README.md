@@ -1,5 +1,7 @@
 # OpenAI API - Flight Weather Description Generator
 
+Credits to my friend **Jeet Gehani** for the idea and help in coming up with this!
+
 ## Usage
 
 - Go the web interface [here](https://flight-weather-description.vercel.app/). 
