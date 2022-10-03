@@ -50,8 +50,8 @@ export default function Home() {
           resultReceived && 
             <div>
               <div className={styles.result}>Weather Code: {weatherCodeInput}</div>
-              <div className={styles.result}>Localtion: {airportName}</div>
-               <div className={styles.result}>Time of Publish: {timeOfPublish}</div>
+              <div className={styles.result}>Location: {airportName}</div>
+               <div className={styles.result}>Time of Publish: {timeOfPublish} GMT</div>
                <div className={styles.result}>{result}</div>
             </div>
         }
